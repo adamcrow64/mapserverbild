@@ -1,2 +1,2 @@
 #!/bin/bash
-docker run -ti --name mapserver adamcrow64/mapserver
+docker run -ti --name server adamcrow64/server

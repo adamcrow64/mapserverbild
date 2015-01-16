@@ -1,3 +1,3 @@
 #!/bin/bash
-docker rm -f mapserver 
-docker rmi -f adamcrow64/mapserver
+docker rm -f server 
+docker rmi -f adamcrow64/server
